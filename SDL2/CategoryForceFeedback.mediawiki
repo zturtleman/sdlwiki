@@ -110,4 +110,4 @@ You can find more information in this blog by Edgar Simo Serra: [http://bobbens.
 * [[SDL_HapticRamp]]
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[[CategoryCategory]]

@@ -81,4 +81,4 @@ In general these hints are just that - they may or may not be supported or appli
 * [[SDL_HintPriority]]
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[[CategoryCategory]]

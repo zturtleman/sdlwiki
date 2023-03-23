@@ -78,4 +78,4 @@ This category contains all the (public) structures for SDL.
 * [[SGStructures]]
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[[CategoryCategory]]

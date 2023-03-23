@@ -62,4 +62,4 @@ the text you received via SDL_TEXTEDITING event.
 : [[SDL_StopTextInput]]
 
 ----
-CategoryStruct, CategoryEvents
+[[CategoryStruct]], [[CategoryEvents]]

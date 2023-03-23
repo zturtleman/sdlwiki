@@ -29,4 +29,4 @@ Returns the name of the device with the specified '''index''',,; call [[SDL_GetE
 :[[SDL_GetNumInputDevices]] ???
 
 ----
-CategoryAPI, [[CategoryInput]], [[CategoryDraft]]
+[[CategoryAPI]], [[CategoryInput]], [[CategoryDraft]]

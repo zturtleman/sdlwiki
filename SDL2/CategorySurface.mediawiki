@@ -27,4 +27,4 @@ This category contains functions for handling surface creation and blitting as w
 * [[SDL_Surface]]
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[[CategoryCategory]]

@@ -15,4 +15,4 @@ This category contains functions for bit-level operations ("bit-twiddling").
 * [[SDL_MostSignificantBitIndex32]]
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[[CategoryCategory]]

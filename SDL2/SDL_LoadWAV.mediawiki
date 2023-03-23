@@ -55,4 +55,4 @@ This macro exists so you can pass a filename to [[SDL_LoadWAV_RW]]() without hav
 :[[SDL_LoadWAV_RW]]
 
 ----
-[[CategoryAPI]], CategoryAudio
+[[CategoryAPI]], [[CategoryAudio]]
