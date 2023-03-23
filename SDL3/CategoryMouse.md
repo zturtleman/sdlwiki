@@ -48,4 +48,4 @@ Please note that this ONLY discusses "mice" with the notion of the desktop GUI. 
 - [SDL_WarpMouseInWindow](SDL_WarpMouseInWindow)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

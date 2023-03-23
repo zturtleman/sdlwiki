@@ -39,4 +39,4 @@ SDL_revision.h must be included in your program explicitly if you want to use th
 - [SDL_VERSIONNUM](SDL_VERSIONNUM)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

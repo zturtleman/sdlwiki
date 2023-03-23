@@ -770,4 +770,4 @@ For '''[Ctrl]+[F]''' functionality, [[/wiki/index|index]] may be a workaround.<b
 - [SGFunctions](SGFunctions)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

@@ -60,4 +60,4 @@ Messages longer than the maximum size (4096 bytes) will be truncated.
 - [SDL_LogWarn](SDL_LogWarn)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

@@ -141,4 +141,4 @@ You can find more information in this blog by Edgar Simo Serra: [http://bobbens.
 - [SDL_NumHaptics](SDL_NumHaptics)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

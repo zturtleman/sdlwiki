@@ -48,4 +48,4 @@ The main difference between these two values comes into play in situations where
 - [SDL_StopTextInput](SDL_StopTextInput)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

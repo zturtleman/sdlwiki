@@ -30,4 +30,4 @@ This category contains functions for handling pixel formats and palettes.
 - [SDL_SetPixelFormatPalette](SDL_SetPixelFormatPalette)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

@@ -106,4 +106,4 @@ This category contains functions for handling display and window actions.
 - [SDL_WindowFlags](SDL_WindowFlags)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

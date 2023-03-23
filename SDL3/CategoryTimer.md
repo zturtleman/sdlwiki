@@ -27,4 +27,4 @@ This category contains functions for handling the SDL time management routines.
 - [SDL_RemoveTimer](SDL_RemoveTimer)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

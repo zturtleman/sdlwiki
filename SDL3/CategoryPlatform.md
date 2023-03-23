@@ -22,4 +22,4 @@ This category contains functions for handling information about the current plat
 - [SDL_GetPlatform](SDL_GetPlatform)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

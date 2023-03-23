@@ -24,4 +24,4 @@ This category contains functions for handling inputs from joysticks.
 - [SDL_JoystickPowerLevel](SDL_JoystickPowerLevel)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

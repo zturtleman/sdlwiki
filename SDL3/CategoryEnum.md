@@ -48,4 +48,4 @@ This category contains all the (public) enumerations for SDL.
 - [SGEnumerations](SGEnumerations)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

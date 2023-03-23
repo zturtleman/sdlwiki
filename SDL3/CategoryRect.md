@@ -27,4 +27,4 @@ This category contains functions for handling simple rectangles including overla
 - [SDL_RectEmpty](SDL_RectEmpty)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)

@@ -34,4 +34,4 @@ This category contains functions for gathering information about the processor's
 - [SDL_HasSSE42](SDL_HasSSE42)
 <!-- END CATEGORY LIST -->
 ----
-CategoryCategory
+[CategoryCategory](CategoryCategory)
