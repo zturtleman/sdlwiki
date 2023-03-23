@@ -40,5 +40,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GetRelativeMouseMode](SDL_GetRelativeMouseMode)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMouse](CategoryMouse)
+
 

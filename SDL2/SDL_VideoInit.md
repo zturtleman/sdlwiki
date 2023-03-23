@@ -52,5 +52,6 @@ This function is available since SDL 2.0.0.
 * [SDL_VideoQuit](SDL_VideoQuit)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

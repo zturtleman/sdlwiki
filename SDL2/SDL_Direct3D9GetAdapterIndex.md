@@ -31,5 +31,6 @@ controls on which monitor a full screen application will appear.
 This function is available since SDL 2.0.1.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem)
+
 

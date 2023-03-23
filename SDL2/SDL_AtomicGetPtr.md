@@ -35,5 +35,6 @@ This function is available since SDL 2.0.2.
 * [SDL_AtomicSetPtr](SDL_AtomicSetPtr)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAtomic](CategoryAtomic)
+
 

@@ -54,5 +54,6 @@ This function is available since SDL 2.0.0.
 * [SDL_RWtell](SDL_RWtell)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
+
 

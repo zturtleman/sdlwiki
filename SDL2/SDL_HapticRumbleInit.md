@@ -33,5 +33,6 @@ This function is available since SDL 2.0.0.
 * [SDL_HapticRumbleSupported](SDL_HapticRumbleSupported)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryForceFeedback](CategoryForceFeedback)
+
 

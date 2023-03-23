@@ -20,5 +20,6 @@ Returns [SDL_TRUE](SDL_TRUE) if this is a DeX docking station,
 This function is available since SDL 2.0.9.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem), [CategoryAndroid](CategoryAndroid)
+
 

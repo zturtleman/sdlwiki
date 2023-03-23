@@ -38,5 +38,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GameControllerMappingForGUID](SDL_GameControllerMappingForGUID)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
+
 

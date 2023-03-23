@@ -35,5 +35,6 @@ other threads in the system (this is known as a "recursive mutex").
 This function is available since SDL 2.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMutex](CategoryMutex)
+
 

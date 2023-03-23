@@ -29,5 +29,6 @@ functions called with them will fail.
 This function is available since SDL 2.0.7.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

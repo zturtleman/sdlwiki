@@ -24,5 +24,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GetVideoDriver](SDL_GetVideoDriver)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

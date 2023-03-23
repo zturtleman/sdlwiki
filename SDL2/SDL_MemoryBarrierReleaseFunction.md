@@ -32,5 +32,6 @@ http://preshing.com/20120913/acquire-and-release-semantics
 This function is available since SDL 2.0.6.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAtomic](CategoryAtomic)
+
 

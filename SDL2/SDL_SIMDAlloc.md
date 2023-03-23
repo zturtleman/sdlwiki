@@ -58,5 +58,6 @@ This function is available since SDL 2.0.10.
 * [SDL_SIMDFree](SDL_SIMDFree)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryCPU](CategoryCPU)
+
 

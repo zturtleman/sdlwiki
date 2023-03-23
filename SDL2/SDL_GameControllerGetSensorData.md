@@ -33,5 +33,6 @@ See [SDL_sensor](SDL_sensor).h for the details for each type of sensor.
 This function is available since SDL 2.0.14.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
+
 

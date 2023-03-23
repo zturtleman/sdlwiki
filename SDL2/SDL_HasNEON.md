@@ -24,5 +24,6 @@ This always returns false on CPUs that aren't using ARM instruction sets.
 This function is available since SDL 2.0.6.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryCPU](CategoryCPU)
+
 

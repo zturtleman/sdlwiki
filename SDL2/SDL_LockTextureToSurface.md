@@ -52,5 +52,6 @@ This function is available since SDL 2.0.12.
 * [SDL_UnlockTexture](SDL_UnlockTexture)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 

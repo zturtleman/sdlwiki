@@ -33,5 +33,6 @@ This function is available since SDL 2.0.0.
 * [SDL_AndroidGetActivity](SDL_AndroidGetActivity)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem), [CategoryAndroid](CategoryAndroid)
+
 

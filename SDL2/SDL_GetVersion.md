@@ -35,5 +35,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GetRevision](SDL_GetRevision)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVersion](CategoryVersion)
+
 

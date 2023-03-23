@@ -37,5 +37,6 @@ This function is available since SDL 2.0.9.
 * [SDL_JoystickHasRumble](SDL_JoystickHasRumble)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

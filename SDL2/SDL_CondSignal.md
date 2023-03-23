@@ -34,5 +34,6 @@ This function is available since SDL 2.0.0.
 * [SDL_DestroyCond](SDL_DestroyCond)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMutex](CategoryMutex)
+
 

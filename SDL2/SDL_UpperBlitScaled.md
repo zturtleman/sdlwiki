@@ -27,5 +27,6 @@ This function is available since SDL 2.0.0.
 * [SDL_BlitScaled](SDL_BlitScaled)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
+
 

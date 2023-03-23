@@ -19,5 +19,6 @@ Returns the window with mouse focus.
 This function is available since SDL 2.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMouse](CategoryMouse)
+
 

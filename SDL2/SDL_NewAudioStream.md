@@ -44,5 +44,6 @@ This function is available since SDL 2.0.7.
 * [SDL_FreeAudioStream](SDL_FreeAudioStream)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
+
 

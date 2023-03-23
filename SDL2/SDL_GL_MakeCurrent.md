@@ -36,5 +36,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GL_CreateContext](SDL_GL_CreateContext)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

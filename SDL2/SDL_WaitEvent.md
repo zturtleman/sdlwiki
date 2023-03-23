@@ -41,5 +41,6 @@ This function is available since SDL 2.0.0.
 * [SDL_WaitEventTimeout](SDL_WaitEventTimeout)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryEvents](CategoryEvents)
+
 

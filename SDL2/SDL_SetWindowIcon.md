@@ -23,5 +23,6 @@ void SDL_SetWindowIcon(SDL_Window * window,
 This function is available since SDL 2.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

@@ -20,5 +20,6 @@ This function is available since SDL 2.0.0.
 * [SDL_SetError](SDL_SetError)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryError](CategoryError)
+
 

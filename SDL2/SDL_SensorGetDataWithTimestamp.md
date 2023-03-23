@@ -32,5 +32,6 @@ The number of values and interpretation of the data is sensor dependent.
 This function is available since SDL 2.26.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySensor](CategorySensor)
+
 

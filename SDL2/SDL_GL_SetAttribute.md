@@ -40,5 +40,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GL_ResetAttributes](SDL_GL_ResetAttributes)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

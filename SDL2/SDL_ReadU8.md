@@ -30,5 +30,6 @@ This function is available since SDL 2.0.0.
 * [SDL_WriteU8](SDL_WriteU8)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
+
 

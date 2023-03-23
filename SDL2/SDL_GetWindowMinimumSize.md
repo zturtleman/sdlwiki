@@ -29,5 +29,6 @@ This function is available since SDL 2.0.0.
 * [SDL_SetWindowMinimumSize](SDL_SetWindowMinimumSize)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

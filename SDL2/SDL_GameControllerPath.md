@@ -36,5 +36,6 @@ This function is available since SDL 2.24.0.
 * [SDL_GameControllerPathForIndex](SDL_GameControllerPathForIndex)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
+
 

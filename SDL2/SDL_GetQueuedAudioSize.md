@@ -54,5 +54,6 @@ This function is available since SDL 2.0.4.
 * [SDL_DequeueAudio](SDL_DequeueAudio)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
+
 

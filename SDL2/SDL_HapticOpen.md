@@ -47,5 +47,6 @@ This function is available since SDL 2.0.0.
 * [SDL_HapticStopAll](SDL_HapticStopAll)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryForceFeedback](CategoryForceFeedback)
+
 

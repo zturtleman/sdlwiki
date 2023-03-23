@@ -36,5 +36,6 @@ This function is available since SDL 2.0.2.
 * [SDL_AtomicGetPtr](SDL_AtomicGetPtr)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAtomic](CategoryAtomic)
+
 

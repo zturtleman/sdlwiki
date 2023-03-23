@@ -41,5 +41,6 @@ This function is available since SDL 2.0.0.
 * [SDL_RenderPresent](SDL_RenderPresent)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 

@@ -27,5 +27,6 @@ Returns 0 on success or a negative error code on failure; call
 This function is available since SDL 2.0.16.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

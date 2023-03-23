@@ -51,5 +51,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GetWindowGammaRamp](SDL_GetWindowGammaRamp)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

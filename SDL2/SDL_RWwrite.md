@@ -54,5 +54,6 @@ This function is available since SDL 2.0.10.
 * [SDL_RWseek](SDL_RWseek)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
+
 

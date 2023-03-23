@@ -68,5 +68,6 @@ This function is available since SDL 2.0.5.
 * [SDL_GetQueuedAudioSize](SDL_GetQueuedAudioSize)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
+
 

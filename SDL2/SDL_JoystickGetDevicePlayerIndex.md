@@ -15,5 +15,6 @@ int SDL_JoystickGetDevicePlayerIndex(int device_index);
 This function is available since SDL 2.0.9.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

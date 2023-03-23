@@ -44,5 +44,6 @@ This function is available since SDL 2.0.0.
 * [SDL_SemWait](SDL_SemWait)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMutex](CategoryMutex)
+
 

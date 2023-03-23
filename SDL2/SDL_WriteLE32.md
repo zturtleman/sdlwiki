@@ -36,5 +36,6 @@ This function is available since SDL 2.0.0.
 * [SDL_WriteBE32](SDL_WriteBE32)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
+
 

@@ -32,5 +32,6 @@ This function is available since SDL 2.0.4.
 * [SDL_RenderSetClipRect](SDL_RenderSetClipRect)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 

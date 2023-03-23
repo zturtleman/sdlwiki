@@ -42,5 +42,6 @@ This function is available since SDL 2.0.14.
 * [SDL_GameControllerHasRumbleTriggers](SDL_GameControllerHasRumbleTriggers)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
+
 

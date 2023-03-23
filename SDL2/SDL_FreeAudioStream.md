@@ -24,5 +24,6 @@ This function is available since SDL 2.0.7.
 * [SDL_AudioStreamClear](SDL_AudioStreamClear)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
+
 

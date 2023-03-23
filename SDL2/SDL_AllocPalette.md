@@ -68,5 +68,6 @@ palette = nullptr;
 ```
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryPixels](CategoryPixels)
+
 

@@ -36,5 +36,6 @@ This function is available since SDL 2.0.0.
 * [SDL_ShowWindow](SDL_ShowWindow)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

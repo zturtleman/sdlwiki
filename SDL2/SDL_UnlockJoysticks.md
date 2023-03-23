@@ -24,5 +24,6 @@ and game controller events will not be delivered.
 This function is available since SDL 2.0.7.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

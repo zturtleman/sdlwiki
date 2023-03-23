@@ -33,5 +33,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GetScancodeName](SDL_GetScancodeName)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryKeyboard](CategoryKeyboard)
+
 

@@ -24,5 +24,6 @@ will not be delivered.
 This function is available since SDL 2.0.14.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySensor](CategorySensor)
+
 

@@ -37,5 +37,6 @@ This function is available since SDL 2.0.0.
 * [SDL_CreateWindow](SDL_CreateWindow)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 

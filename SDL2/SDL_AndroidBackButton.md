@@ -15,5 +15,6 @@ void SDL_AndroidBackButton(void);
 This function is available since SDL 2.0.9.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem), [CategoryAndroid](CategoryAndroid)
+
 

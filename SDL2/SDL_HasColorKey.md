@@ -36,5 +36,6 @@ This function is available since SDL 2.0.9.
 * [SDL_GetColorKey](SDL_GetColorKey)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
+
 

@@ -25,5 +25,6 @@ This function is available since SDL 2.26.0.
 * [SDL_SetPrimarySelectionText](SDL_SetPrimarySelectionText)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryClipboard](CategoryClipboard)
+
 

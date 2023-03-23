@@ -34,5 +34,6 @@ This function is available since SDL 2.0.0.
 * [SDL_SetRenderTarget](SDL_SetRenderTarget)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 

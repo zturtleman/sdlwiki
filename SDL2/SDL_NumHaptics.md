@@ -25,5 +25,6 @@ This function is available since SDL 2.0.0.
 * [SDL_HapticName](SDL_HapticName)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryForceFeedback](CategoryForceFeedback)
+
 

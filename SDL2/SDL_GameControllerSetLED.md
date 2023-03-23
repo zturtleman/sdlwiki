@@ -28,5 +28,6 @@ Returns 0, or -1 if this controller does not have a modifiable LED
 This function is available since SDL 2.0.14.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
+
 

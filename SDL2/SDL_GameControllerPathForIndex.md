@@ -37,5 +37,6 @@ This function is available since SDL 2.24.0.
 * [SDL_GameControllerPath](SDL_GameControllerPath)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
+
 

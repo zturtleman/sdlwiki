@@ -35,5 +35,6 @@ This function is available since SDL 2.0.0.
 * [SDL_GetAudioDriver](SDL_GetAudioDriver)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
+
 

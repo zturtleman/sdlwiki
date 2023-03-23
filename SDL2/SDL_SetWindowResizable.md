@@ -36,5 +36,6 @@ This function is available since SDL 2.0.5.
 * [SDL_GetWindowFlags](SDL_GetWindowFlags)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

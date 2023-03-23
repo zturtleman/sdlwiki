@@ -45,5 +45,6 @@ This function is available since SDL 2.0.0.
 * [SDL_JoystickNumHats](SDL_JoystickNumHats)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

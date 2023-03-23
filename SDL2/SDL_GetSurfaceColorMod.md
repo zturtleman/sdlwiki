@@ -36,5 +36,6 @@ This function is available since SDL 2.0.0.
 * [SDL_SetSurfaceColorMod](SDL_SetSurfaceColorMod)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
+
 

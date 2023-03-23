@@ -42,5 +42,6 @@ This function is available since SDL 2.0.0.
 * [SDL_JoystickNumBalls](SDL_JoystickNumBalls)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

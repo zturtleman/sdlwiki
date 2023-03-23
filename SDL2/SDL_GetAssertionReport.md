@@ -43,5 +43,6 @@ This function is available since SDL 2.0.0.
 * [SDL_ResetAssertionReport](SDL_ResetAssertionReport)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAssertions](CategoryAssertions)
+
 

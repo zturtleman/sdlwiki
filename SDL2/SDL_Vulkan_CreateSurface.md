@@ -42,5 +42,6 @@ This function is available since SDL 2.0.6.
 * [SDL_Vulkan_GetDrawableSize](SDL_Vulkan_GetDrawableSize)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVulkan](CategoryVulkan)
+
 

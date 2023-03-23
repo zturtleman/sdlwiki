@@ -38,5 +38,6 @@ This function is available since SDL 2.0.0.
 * [SDL_HapticUnpause](SDL_HapticUnpause)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryForceFeedback](CategoryForceFeedback)
+
 

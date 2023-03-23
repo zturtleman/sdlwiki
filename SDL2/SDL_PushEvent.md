@@ -55,5 +55,6 @@ This function is available since SDL 2.0.0.
 * [SDL_RegisterEvents](SDL_RegisterEvents)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryEvents](CategoryEvents)
+
 

@@ -46,5 +46,6 @@ This function is available since SDL 2.0.0.
 * [SDL_SetTextureAlphaMod](SDL_SetTextureAlphaMod)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 

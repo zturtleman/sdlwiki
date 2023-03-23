@@ -35,5 +35,6 @@ The axis indices start at index 0.
 This function is available since SDL 2.0.6.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

@@ -40,5 +40,6 @@ This function is available since SDL 2.0.0.
 * [SDL_SetHintWithPriority](SDL_SetHintWithPriority)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryHints](CategoryHints)
+
 

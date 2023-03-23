@@ -56,5 +56,6 @@ printf("Amount of bytes: %i\n", pixel_format->BytesPerPixel);
 ```
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryPixels](CategoryPixels)
+
 

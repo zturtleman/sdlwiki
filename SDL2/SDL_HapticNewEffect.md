@@ -34,5 +34,6 @@ This function is available since SDL 2.0.0.
 * [SDL_HapticUpdateEffect](SDL_HapticUpdateEffect)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryForceFeedback](CategoryForceFeedback)
+
 

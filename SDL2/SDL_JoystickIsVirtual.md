@@ -26,5 +26,6 @@ Returns [SDL_TRUE](SDL_TRUE) if the joystick is virtual,
 This function is available since SDL 2.0.14.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

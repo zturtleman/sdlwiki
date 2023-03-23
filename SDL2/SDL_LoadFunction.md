@@ -48,5 +48,6 @@ This function is available since SDL 2.0.0.
 * [SDL_UnloadObject](SDL_UnloadObject)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySharedObject](CategorySharedObject)
+
 

@@ -47,5 +47,6 @@ This function is available since SDL 2.0.18.
 * [SDL_Vertex](SDL_Vertex)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 
