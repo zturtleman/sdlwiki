@@ -30,5 +30,6 @@ This function is available since SDL 3.0.0.
 * [SDL_SetWindowMouseRect](SDL_SetWindowMouseRect)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

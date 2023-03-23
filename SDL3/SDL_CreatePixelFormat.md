@@ -36,5 +36,6 @@ This function is available since SDL 3.0.0.
 * [SDL_DestroyPixelFormat](SDL_DestroyPixelFormat)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryPixels](CategoryPixels)
+
 

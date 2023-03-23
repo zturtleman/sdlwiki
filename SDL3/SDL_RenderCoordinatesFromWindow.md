@@ -35,5 +35,6 @@ This function is available since SDL 3.0.0.
 * [SDL_SetRenderScale](SDL_SetRenderScale)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 

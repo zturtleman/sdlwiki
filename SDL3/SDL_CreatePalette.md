@@ -35,5 +35,6 @@ This function is available since SDL 3.0.0.
 * [SDL_DestroyPalette](SDL_DestroyPalette)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryPixels](CategoryPixels)
+
 

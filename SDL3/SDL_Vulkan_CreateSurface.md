@@ -50,6 +50,5 @@ if (!SDL_Vulkan_CreateSurface(window, instance, &surface)) handle_error();
 
 ----
 [CategoryAPI](CategoryAPI), [CategoryVulkan](CategoryVulkan)
-<!-- #See the Style Guide for instructions on editing the footer. -->
 
 

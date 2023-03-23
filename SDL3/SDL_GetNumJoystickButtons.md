@@ -31,5 +31,6 @@ This function is available since SDL 3.0.0.
 * [SDL_OpenJoystick](SDL_OpenJoystick)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

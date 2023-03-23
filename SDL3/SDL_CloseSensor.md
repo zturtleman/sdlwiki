@@ -21,5 +21,6 @@ void SDL_CloseSensor(SDL_Sensor *sensor);
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySensor](CategorySensor)
+
 

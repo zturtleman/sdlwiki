@@ -40,5 +40,6 @@ This function is available since SDL 3.0.0.
 * [SDL_BlitSurface](SDL_BlitSurface)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
+
 

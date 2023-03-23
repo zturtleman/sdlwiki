@@ -62,6 +62,5 @@ void *GetMyThreadData(void)
 
 ----
 [CategoryAPI](CategoryAPI), [CategoryThread](CategoryThread), [CategoryDraft](CategoryDraft)
-<!-- #See the Style Guide for instructions on editing the footer. -->
 
 

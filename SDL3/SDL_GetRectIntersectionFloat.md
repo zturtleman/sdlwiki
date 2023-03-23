@@ -38,5 +38,6 @@ This function is available since SDL 3.0.0.
 * [SDL_HasRectIntersectionFloat](SDL_HasRectIntersectionFloat)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRect](CategoryRect)
+
 

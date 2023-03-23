@@ -34,6 +34,5 @@ This function is available since SDL 3.0.0.
 
 ----
 [CategoryAPI](CategoryAPI), [CategoryKeyboard](CategoryKeyboard), [CategoryDraft](CategoryDraft)
-<!-- #See the Style Guide for instructions on editing the footer. -->
 
 

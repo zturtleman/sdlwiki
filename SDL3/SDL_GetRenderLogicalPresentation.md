@@ -39,5 +39,6 @@ This function is available since SDL 3.0.0.
 * [SDL_SetRenderLogicalPresentation](SDL_SetRenderLogicalPresentation)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
+
 

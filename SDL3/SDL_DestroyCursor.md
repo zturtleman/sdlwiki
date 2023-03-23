@@ -34,5 +34,6 @@ This function is available since SDL 3.0.0.
 * [SDL_CreateSystemCursor](SDL_CreateSystemCursor)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMouse](CategoryMouse)
+
 

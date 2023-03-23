@@ -111,6 +111,5 @@ int main(int argc, char *argv[])
 
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo), [CategoryDraft](CategoryDraft)
-<!-- #See the Style Guide for instructions on editing the footer. -->
 
 

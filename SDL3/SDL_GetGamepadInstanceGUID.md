@@ -35,5 +35,6 @@ This function is available since SDL 3.0.0.
 * [SDL_GetGamepadGUIDString](SDL_GetGamepadGUIDString)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGamepad](CategoryGamepad)
+
 

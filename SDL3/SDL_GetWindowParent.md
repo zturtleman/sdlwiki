@@ -30,5 +30,6 @@ This function is available since SDL 3.0.0.
 * [SDL_CreatePopupWindow](SDL_CreatePopupWindow)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
+
 

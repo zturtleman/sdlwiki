@@ -30,5 +30,6 @@ This function is available since SDL 3.0.0.
 * [SDL_SetGamepadPlayerIndex](SDL_SetGamepadPlayerIndex)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGamepad](CategoryGamepad)
+
 

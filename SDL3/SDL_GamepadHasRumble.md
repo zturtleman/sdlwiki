@@ -30,5 +30,6 @@ This function is available since SDL 3.0.0.
 * [SDL_RumbleGamepad](SDL_RumbleGamepad)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGamepad](CategoryGamepad)
+
 

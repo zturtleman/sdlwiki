@@ -15,5 +15,6 @@ void SDL_UnlockJoysticks(void) SDL_RELEASE(SDL_joystick_lock);
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 

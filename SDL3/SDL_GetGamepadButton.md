@@ -31,5 +31,6 @@ This function is available since SDL 3.0.0.
 * [SDL_GetGamepadAxis](SDL_GetGamepadAxis)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGamepad](CategoryGamepad)
+
 

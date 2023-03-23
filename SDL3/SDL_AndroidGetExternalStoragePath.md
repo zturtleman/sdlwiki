@@ -40,7 +40,6 @@ This function is available since SDL 3.0.0.
 * [SDL_AndroidGetExternalStorageState](SDL_AndroidGetExternalStorageState)
 
 ----
-[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem), [CategoryDraft](CategoryDraft), [CategoryAndroid](CategoryAndroid)
-<!-- #See the Style Guide for instructions on editing the footer. -->
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem), [CategoryAndroid](CategoryAndroid), [CategoryDraft](CategoryDraft)
 
 

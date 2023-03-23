@@ -42,5 +42,6 @@ range of Sint16. For example, a trigger at rest would have the value of
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
+
 
