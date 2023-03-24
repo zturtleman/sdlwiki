@@ -36,5 +36,5 @@ This function is available since SDL 3.0.0.
 * [SDL_aligned_free](SDL_aligned_free)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryCPU](CategoryCPU)
 

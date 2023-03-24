@@ -44,4 +44,3 @@ threadID = SDL_ThreadID();
 ----
 [CategoryAPI](CategoryAPI), [CategoryThread](CategoryThread)
 
-

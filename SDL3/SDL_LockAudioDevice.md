@@ -83,4 +83,3 @@ SDL_Delay(2000);  // callback runs for 2 seconds.
 ----
 [CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
 
-

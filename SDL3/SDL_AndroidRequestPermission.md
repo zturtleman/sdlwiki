@@ -30,6 +30,5 @@ This blocks the calling thread until the permission is granted or denied.
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI), [CategoryAndroid](CategoryAndroid)
-
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem), [CategoryAndroid](CategoryAndroid)
 

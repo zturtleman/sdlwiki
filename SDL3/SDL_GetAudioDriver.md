@@ -52,4 +52,3 @@ for (i = 0; i < SDL_GetNumAudioDrivers(); ++i) {
 ----
 [CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
 
-

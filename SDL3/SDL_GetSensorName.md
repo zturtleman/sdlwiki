@@ -25,5 +25,5 @@ Returns the sensor name, or NULL if `sensor` is NULL.
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySensor](CategorySensor)
 

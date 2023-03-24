@@ -90,4 +90,3 @@ glActiveTextureARB_ptr(GL_TEXTURE0_ARB);
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 
-

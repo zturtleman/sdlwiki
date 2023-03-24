@@ -64,4 +64,3 @@ SDL_DestroyMutex(mutex);
 ----
 [CategoryAPI](CategoryAPI), [CategoryMutex](CategoryMutex)
 
-

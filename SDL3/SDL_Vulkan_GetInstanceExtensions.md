@@ -75,4 +75,3 @@ VkResult result = vkCreateInstance(&create_info, nullptr, &instance);
 ----
 [CategoryAPI](CategoryAPI), [CategoryVulkan](CategoryVulkan)
 
-

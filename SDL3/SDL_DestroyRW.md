@@ -42,5 +42,5 @@ This function is available since SDL 3.0.0.
 * [SDL_CreateRW](SDL_CreateRW)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 

@@ -33,7 +33,6 @@ This function is available since SDL 3.0.0.
 * [SDL_SetWindowMinimumSize](SDL_SetWindowMinimumSize)
 
 ----
-[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
-<!-- #See the Style Guide for instructions on editing the footer. -->
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo), <!-- #See the Style Guide for instructions on editing the footer. -->
 
 

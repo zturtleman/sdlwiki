@@ -30,5 +30,5 @@ This function is available since SDL 3.0.0.
 * [SDL_SetWindowFullscreen](SDL_SetWindowFullscreen)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

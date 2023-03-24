@@ -58,4 +58,3 @@ if ((buttons & SDL_BUTTON_LMASK) != 0) {
 ----
 [CategoryAPI](CategoryAPI), [CategoryMouse](CategoryMouse)
 
-

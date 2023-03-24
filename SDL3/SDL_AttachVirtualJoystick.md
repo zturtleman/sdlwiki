@@ -32,5 +32,5 @@ Returns the joystick instance ID, or 0 if an error occurred; call
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
 

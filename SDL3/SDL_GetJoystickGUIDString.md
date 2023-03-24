@@ -38,5 +38,5 @@ This function is available since SDL 3.0.0.
 * [SDL_GetJoystickGUIDFromString](SDL_GetJoystickGUIDFromString)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
 

@@ -30,5 +30,5 @@ This function is available since SDL 3.0.0.
 * [SDL_SetEventEnabled](SDL_SetEventEnabled)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryEvents](CategoryEvents)
 

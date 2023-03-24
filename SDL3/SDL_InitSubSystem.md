@@ -60,4 +60,3 @@ SDL_Quit();
 ----
 [CategoryAPI](CategoryAPI), [CategoryInit](CategoryInit)
 
-

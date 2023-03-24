@@ -30,5 +30,5 @@ This function is available since SDL 3.0.0.
 * [SDL_SetJoystickEventsEnabled](SDL_SetJoystickEventsEnabled)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
 

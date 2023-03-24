@@ -41,5 +41,5 @@ This function is available since SDL 3.0.0.
 * [SDL_DestroyAudioStream](SDL_DestroyAudioStream)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
 

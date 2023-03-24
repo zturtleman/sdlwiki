@@ -48,4 +48,3 @@ SDL_SetHint(SDL_HINT_RENDER_SCALE_QUALITY, "1");
 ----
 [CategoryAPI](CategoryAPI), [CategoryHints](CategoryHints)
 
-

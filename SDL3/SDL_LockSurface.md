@@ -60,4 +60,3 @@ SDL_UnlockSurface(surface);
 ----
 [CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 
-

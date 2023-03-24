@@ -50,4 +50,3 @@ if (SDL_GetDesktopDisplayMode(0, &dm) != 0) {
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 
-

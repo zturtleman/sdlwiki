@@ -45,5 +45,5 @@ This function is available since SDL 3.0.0.
 * [SDL_GetDefaultAudioInfo](SDL_GetDefaultAudioInfo)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
 

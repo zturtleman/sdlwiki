@@ -56,4 +56,3 @@ if (SDL_RWseek(rw, 0, SDL_RW_SEEK_END) != -1) {
 ----
 [CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 
-

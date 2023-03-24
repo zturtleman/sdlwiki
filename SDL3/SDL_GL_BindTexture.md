@@ -264,4 +264,3 @@ void RocketSDLRenderInterfaceOpenGLES::RenderGeometry(Rocket::Core::Vertex* vert
 ----
 [CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 
-

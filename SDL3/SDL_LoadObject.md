@@ -42,4 +42,3 @@ SDL_LoadObject("mylib.so");
 ----
 [CategoryAPI](CategoryAPI), [CategorySharedObject](CategorySharedObject)
 
-

@@ -30,5 +30,5 @@ This can be called before any gamepads are opened.
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGamepad](CategoryGamepad)
 

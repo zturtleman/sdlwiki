@@ -32,5 +32,5 @@ This function is available since SDL 3.0.0.
 * [SDL_SetPrimarySelectionText](SDL_SetPrimarySelectionText)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryClipboard](CategoryClipboard)
 

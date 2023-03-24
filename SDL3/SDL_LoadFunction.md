@@ -76,4 +76,3 @@ if (myFancyFunction != NULL) {
 ----
 [CategoryAPI](CategoryAPI), [CategorySharedObject](CategorySharedObject)
 
-

@@ -35,5 +35,5 @@ This function is available since SDL 3.0.0.
 * [SDL_SetSurfaceRLE](SDL_SetSurfaceRLE)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 

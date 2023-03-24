@@ -35,5 +35,5 @@ This function is available since SDL 3.0.0.
 * [SDL_CloseJoystick](SDL_CloseJoystick)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
 

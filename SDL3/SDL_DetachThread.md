@@ -66,4 +66,3 @@ SDL_DetachThread(thread);  /* will go away on its own upon completion. */
 ----
 [CategoryAPI](CategoryAPI), [CategoryThread](CategoryThread)
 
-

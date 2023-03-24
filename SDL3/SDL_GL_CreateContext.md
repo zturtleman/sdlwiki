@@ -65,4 +65,3 @@ SDL_GL_DeleteContext(glcontext);
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 
-

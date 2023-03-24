@@ -54,4 +54,3 @@ SDL_DestroyPixelFormat(format);
 ----
 [CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 
-

@@ -37,5 +37,5 @@ This function is available since SDL 3.0.0.
 * [SDL_GamepadHasRumble](SDL_GamepadHasRumble)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGamepad](CategoryGamepad)
 

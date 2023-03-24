@@ -40,4 +40,3 @@ SDL_Log("The surface's pixelformat is %s", surfacePixelFormatName);
 ----
 [CategoryAPI](CategoryAPI), [CategoryPixels](CategoryPixels)
 
-

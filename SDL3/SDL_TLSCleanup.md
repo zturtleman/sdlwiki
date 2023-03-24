@@ -15,5 +15,5 @@ void SDL_TLSCleanup(void);
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryThread](CategoryThread)
 

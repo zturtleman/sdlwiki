@@ -63,4 +63,3 @@ Note: Although this example uses [SDL_Init](SDL_Init)(), [SDL_GetError](SDL_GetE
 ----
 [CategoryAPI](CategoryAPI), [CategoryError](CategoryError)
 
-

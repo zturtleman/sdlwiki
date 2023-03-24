@@ -67,4 +67,3 @@ if (SDL_WasInit(subsystem_mask) == subsystem_mask) {
 ----
 [CategoryAPI](CategoryAPI), [CategoryInit](CategoryInit)
 
-

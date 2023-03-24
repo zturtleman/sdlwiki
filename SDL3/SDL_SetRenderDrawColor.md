@@ -63,4 +63,3 @@ SDL_RenderFillRect(renderer, &rectangle);
 ----
 [CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 
-

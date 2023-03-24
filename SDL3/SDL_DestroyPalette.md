@@ -25,5 +25,5 @@ This function is available since SDL 3.0.0.
 * [SDL_CreatePalette](SDL_CreatePalette)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryPixels](CategoryPixels)
 

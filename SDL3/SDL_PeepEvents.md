@@ -65,4 +65,3 @@ Add a code example here.
 ----
 [CategoryAPI](CategoryAPI), [CategoryEvents](CategoryEvents)
 
-

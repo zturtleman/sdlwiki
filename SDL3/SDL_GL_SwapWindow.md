@@ -61,4 +61,3 @@ SDL_GL_SwapWindow(window);
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 
-

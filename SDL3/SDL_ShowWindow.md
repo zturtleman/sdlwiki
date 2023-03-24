@@ -39,4 +39,3 @@ SDL_ShowWindow(window);
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 
-

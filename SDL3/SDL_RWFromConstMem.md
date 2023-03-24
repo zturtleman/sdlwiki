@@ -66,4 +66,3 @@ SDL_Surface *img = SDL_LoadBMP_RW(rw, 1); /* Automatically frees the RWops struc
 ----
 [CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 
-

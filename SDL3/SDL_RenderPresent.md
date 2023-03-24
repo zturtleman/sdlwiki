@@ -68,4 +68,3 @@ Please refer to the code example in [SDL_RenderClear](SDL_RenderClear).
 ----
 [CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 
-

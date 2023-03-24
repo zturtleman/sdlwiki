@@ -49,7 +49,6 @@ if (!SDL_Vulkan_CreateSurface(window, instance, &surface)) handle_error();
 * [SDL_Vulkan_GetInstanceExtensions](SDL_Vulkan_GetInstanceExtensions)
 
 ----
-[CategoryAPI](CategoryAPI), [CategoryVulkan](CategoryVulkan)
-<!-- #See the Style Guide for instructions on editing the footer. -->
+[CategoryAPI](CategoryAPI), [CategoryVulkan](CategoryVulkan), <!-- #See the Style Guide for instructions on editing the footer. -->
 
 

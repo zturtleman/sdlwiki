@@ -31,5 +31,5 @@ This function is available since SDL 3.0.0.
 * [SDL_GetRenderViewport](SDL_GetRenderViewport)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

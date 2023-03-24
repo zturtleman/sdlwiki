@@ -61,4 +61,3 @@ SDL_SaveBMP_RW(screen, rw, 1);  /* closes SDL_RWops, leaves us memory buffer of 
 ----
 [CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 
-

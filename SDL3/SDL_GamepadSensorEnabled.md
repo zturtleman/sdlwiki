@@ -27,5 +27,5 @@ Returns [SDL_TRUE](SDL_TRUE) if the sensor is enabled,
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGamepad](CategoryGamepad)
 

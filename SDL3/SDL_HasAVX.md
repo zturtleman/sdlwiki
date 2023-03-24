@@ -36,7 +36,6 @@ This function is available since SDL 3.0.0.
 * [SDL_HasSSE42](SDL_HasSSE42)
 
 ----
-[CategoryAPI](CategoryAPI), [CategoryCPU](CategoryCPU)
-<!-- #See the Style Guide for instructions on editing the footer. -->
+[CategoryAPI](CategoryAPI), [CategoryCPU](CategoryCPU), <!-- #See the Style Guide for instructions on editing the footer. -->
 
 

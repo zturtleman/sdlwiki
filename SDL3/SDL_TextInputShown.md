@@ -19,5 +19,5 @@ Returns [SDL_TRUE](SDL_TRUE) if shown, else [SDL_FALSE](SDL_FALSE)
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryKeyboard](CategoryKeyboard)
 

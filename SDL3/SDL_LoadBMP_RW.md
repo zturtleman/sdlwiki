@@ -72,4 +72,3 @@ SDL_DestroySurface(image);
 ----
 [CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 
-

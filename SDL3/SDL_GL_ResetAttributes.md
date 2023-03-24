@@ -20,7 +20,6 @@ This function is available since SDL 3.0.0.
 * [SDL_GL_SetAttribute](SDL_GL_SetAttribute)
 
 ----
-[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
-<!-- #See the Style Guide for instructions on editing the footer. -->
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo), <!-- #See the Style Guide for instructions on editing the footer. -->
 
 

@@ -25,5 +25,5 @@ Returns the sensor instance ID, or 0 if `sensor` is NULL.
 This function is available since SDL 3.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySensor](CategorySensor)
 

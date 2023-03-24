@@ -79,4 +79,3 @@ SDL_DestroySemaphore(sem);
 ----
 [CategoryAPI](CategoryAPI), [CategoryMutex](CategoryMutex)
 
-

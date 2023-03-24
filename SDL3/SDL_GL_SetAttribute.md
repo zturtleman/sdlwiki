@@ -74,4 +74,3 @@ printf("Red size: %d, Green size: %d, Blue size: %d\n", r, g, b);
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 
-

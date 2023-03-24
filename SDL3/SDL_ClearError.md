@@ -32,4 +32,3 @@ if (*error) {
 ----
 [CategoryAPI](CategoryAPI), [CategoryError](CategoryError)
 
-

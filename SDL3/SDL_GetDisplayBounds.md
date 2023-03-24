@@ -48,4 +48,3 @@ if (SDL_GetDisplayBounds(0, &r) != 0) {
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 
-

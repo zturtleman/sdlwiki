@@ -92,4 +92,3 @@ SDL_Surface *image = SDL_LoadBMP_RW(file, 1); /* 1 to automatically close the RW
 ----
 [CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 
-

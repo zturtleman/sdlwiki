@@ -95,4 +95,3 @@ SDL_BlitSurface(surface, &source_rect, temp_surface, NULL);
 ----
 [CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 
-

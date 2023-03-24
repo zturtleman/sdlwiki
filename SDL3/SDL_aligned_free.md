@@ -19,5 +19,5 @@ This function is available since SDL 3.0.0.
 * [SDL_aligned_alloc](SDL_aligned_alloc)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryStandard](CategoryStandard)
 
