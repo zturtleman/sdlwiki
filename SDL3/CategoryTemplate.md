@@ -14,7 +14,7 @@
 
 
 
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_%%%%%.h SDL_%%%%%.h]
+'''Include File(s):''' [SDL_%%%%%.h](http://hg.libsdl.org/SDL/file/default/include/SDL_%%%%%.h)
 
 <!-- #Replace %%%%% above with the header file name in both places.  Be careful of spelling and case.  This comment may be deleted when the change is made. -->
 

@@ -1,7 +1,7 @@
 
 # Platform-specific Functionality
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_system.h SDL_system.h]
+'''Include File(s):'''  [SDL_system.h](http://hg.libsdl.org/SDL/file/default/include/SDL_system.h)
 
 
 ## Introduction

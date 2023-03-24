@@ -1,9 +1,9 @@
 
 # Mouse Support
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_mouse.h SDL_mouse.h]
+'''Include File(s):'''  [SDL_mouse.h](http://hg.libsdl.org/SDL/file/default/include/SDL_mouse.h)
 
-<!-- <span color="green">Alternate Include File:  [http://hg.libsdl.org/SDL/file/default/include/SDL_input.h SDL_input.h]</span> -->
+<!-- <span color="green">Alternate Include File:  [SDL_input.h](http://hg.libsdl.org/SDL/file/default/include/SDL_input.h)</span> -->
 
 
 ## Introduction
@@ -14,7 +14,7 @@ Please note that this ONLY discusses "mice" with the notion of the desktop GUI. 
 
 <!-- #It's not the whole picture, though. If you want more lowlevel control, SDL offers a different API that gives you visibility into each input device, multi-touch interfaces, etc.  -->
 
-<!-- #The other API is in [http://hg.libsdl.org/SDL/file/100f7ab48946/include/SDL_input.h SDL_input.h].  See [[CategoryInput|Input Device Support]] for more.   -->
+<!-- #The other API is in [SDL_input.h](http://hg.libsdl.org/SDL/file/100f7ab48946/include/SDL_input.h).  See [Input Device Support](CategoryInput) for more.   -->
 
 <!-- #Those two APIs are incompatible, and you usually should not use both at the same time. But for legacy purposes, this API refers to a "mouse" when it actually means the system pointer and not a physical mouse. -->
 

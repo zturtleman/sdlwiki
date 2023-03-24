@@ -1,7 +1,7 @@
 
 # Timer Support
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_timer.h SDL_timer.h]
+'''Include File(s):'''  [SDL_timer.h](http://hg.libsdl.org/SDL/file/default/include/SDL_timer.h)
 
 
 ## Introduction

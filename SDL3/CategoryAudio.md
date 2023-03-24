@@ -1,7 +1,7 @@
 
 # Audio Device Management and Audio Playback
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_audio.h SDL_audio.h]
+'''Include File(s):'''  [SDL_audio.h](http://hg.libsdl.org/SDL/file/default/include/SDL_audio.h)
 
 
 ## Introduction

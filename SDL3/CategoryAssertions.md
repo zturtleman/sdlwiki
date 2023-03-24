@@ -1,12 +1,12 @@
 # Assertions
 
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_assert.h SDL_assert.h]
+'''Include File(s):''' [SDL_assert.h](http://hg.libsdl.org/SDL/file/default/include/SDL_assert.h)
 
 
 ## Introduction
 This category contains functions for managing assertions.
 
-A fairly detailed discussion of the features of SDL_assert vs the standard assert() macro, and some technical explanation about how this is implemented can be found [http://web.archive.org/web/20190322035412/https://plus.google.com/103391075724026391227/posts/KzV6sLdALX7 in this Google+ post from Ryan].
+A fairly detailed discussion of the features of SDL_assert vs the standard assert() macro, and some technical explanation about how this is implemented can be found [in this Google+ post from Ryan](http://web.archive.org/web/20190322035412/https://plus.google.com/103391075724026391227/posts/KzV6sLdALX7).
 
 SDL_ASSERT_LEVEL affects which assertions, if any, are processed during compiling based on which function was used to create the assertion (see functions below).
 

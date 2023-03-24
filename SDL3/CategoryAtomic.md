@@ -1,7 +1,7 @@
 
 # Atomic Operations
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_atomic.h SDL_atomic.h]
+'''Include File(s):'''  [SDL_atomic.h](http://hg.libsdl.org/SDL/file/default/include/SDL_atomic.h)
 
 
 ## Introduction
@@ -12,10 +12,10 @@ This category contains functions for handling atomic operations.
 : If you are not an expert in concurrent lockless programming, you should only be using the atomic lock and reference counting functions in this file.  In all other cases you should be protecting your data structures with full mutexes.  ''Seriously, here be dragons!''
 
 "Safe" functions to use are:
-* [[SDL_AtomicLock]]()
-* [[SDL_AtomicUnlock]]()
-* [[SDL_AtomicIncRef]]()
-* [[SDL_AtomicDecRef]]()
+* [SDL_AtomicLock](SDL_AtomicLock)()
+* [SDL_AtomicUnlock](SDL_AtomicUnlock)()
+* [SDL_AtomicIncRef](SDL_AtomicIncRef)()
+* [SDL_AtomicDecRef](SDL_AtomicDecRef)()
 
 
 You can find out a little more about lockless programming and the subtle issues that can arise here:

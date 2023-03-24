@@ -1,7 +1,7 @@
 
 # Platform Detection
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_platform.h SDL_platform.h]
+'''Include File(s):'''  [SDL_platform.h](http://hg.libsdl.org/SDL/file/default/include/SDL_platform.h)
 
 
 ## Introduction

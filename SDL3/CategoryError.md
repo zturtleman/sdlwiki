@@ -1,12 +1,12 @@
 
 # Error Handling
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_error.h SDL_error.h]
+'''Include File(s):'''  [SDL_error.h](http://hg.libsdl.org/SDL/file/default/include/SDL_error.h)
 
 
 ## Introduction
 
-Functions in this category provide simple error message routines for SDL. [[SDL_GetError]]() can be called for almost all SDL functions to determine what problems are occurring. Check the wiki page of each specific SDL function to see whether [[SDL_GetError]]() is meaningful for them or not.
+Functions in this category provide simple error message routines for SDL. [SDL_GetError](SDL_GetError)() can be called for almost all SDL functions to determine what problems are occurring. Check the wiki page of each specific SDL function to see whether [SDL_GetError](SDL_GetError)() is meaningful for them or not.
 
 The SDL error messages are in English.
 

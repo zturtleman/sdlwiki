@@ -1,7 +1,7 @@
 <!-- # Please edit system and help pages ONLY in the master wiki! -->
 <!-- # For more information, please see MoinMoin:MoinDev/Translation. -->
 <!-- acl -All:write Default -->
-A category is a WikiName that exploits [[Wiki:WikiWiki|WikiWiki]]'s reverse linking: if you click on the title of a category page, you'll get a list of pages belonging to that category. To get a list of all categories, click the Category''''''Category title in the navigation area.
+A category is a WikiName that exploits [WikiWiki](Wiki:WikiWiki)'s reverse linking: if you click on the title of a category page, you'll get a list of pages belonging to that category. To get a list of all categories, click the Category''''''Category title in the navigation area.
 
 Here is a list of all pages containing the CategoryCategory wiki tag:
 <<FullSearch(category:CategoryCategory)>>

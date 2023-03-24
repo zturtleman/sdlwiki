@@ -1,7 +1,7 @@
 
 # Sensor Support
 
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_sensor.h SDL_sensor.h]
+'''Include File(s):''' [SDL_sensor.h](http://hg.libsdl.org/SDL/file/default/include/SDL_sensor.h)
 
 
 ## Introduction

@@ -1,8 +1,8 @@
 # SDL 2.0 API by Name
 
 Under construction due to migration.<br />
-For '''[Ctrl]+[F]''' functionality, [[/wiki/index|index]] may be a workaround.<br />
-[[/wiki/search|Search]] is also an option.
+For '''[Ctrl]+[F]''' functionality, [index](/wiki/index) may be a workaround.<br />
+[Search](/wiki/search) is also an option.
 
 ## Hints
 

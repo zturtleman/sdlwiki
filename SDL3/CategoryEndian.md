@@ -1,7 +1,7 @@
 
 # Byte Order and Byte Swapping
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_endian.h SDL_endian.h]
+'''Include File(s):'''  [SDL_endian.h](http://hg.libsdl.org/SDL/file/default/include/SDL_endian.h)
 
 
 ## Introduction
@@ -24,7 +24,7 @@ Endianness comes in two forms - big and little.
  When that is stored in memory on a big-endian system they are stored with the most significant byte first, producing the byte stream:
   ```0x01 0x02 0x03 0x04```<br/>
 
-For further information about endianness read the [https://en.wikipedia.org/wiki/Endianness Wikipedia] article on the subject.
+For further information about endianness read the [Wikipedia](https://en.wikipedia.org/wiki/Endianness) article on the subject.
 
 SDL_BYTEORDER is a macro that corresponds to the byte order used by the processor type it was compiled for.
 * SDL_BYTEORDER is SDL_LIL_ENDIAN for x86, x64, and similar systems that use the little endian byte order.

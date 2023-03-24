@@ -1,6 +1,6 @@
 # 2D Accelerated Rendering
 
-'''Include File(s):''' [https://github.com/libsdl-org/SDL/blob/main/include/SDL_render.h SDL_render.h]
+'''Include File(s):''' [SDL_render.h](https://github.com/libsdl-org/SDL/blob/main/include/SDL_render.h)
 
 
 ## Introduction
@@ -19,7 +19,7 @@ The texture images can have an additional color tint or alpha modulation applied
 
 For advanced functionality like particle effects or actual 3D you should use SDL's OpenGL/Direct3D support or one of the many available 3D engines.
 
-This API is not designed to be used from multiple threads, see [https://github.com/libsdl-org/SDL/issues/986 SDL issue #986] for details.
+This API is not designed to be used from multiple threads, see [SDL issue #986](https://github.com/libsdl-org/SDL/issues/986) for details.
 
 <!-- BEGIN CATEGORY LIST -->
 - [SDL_BlendFactor](SDL_BlendFactor)

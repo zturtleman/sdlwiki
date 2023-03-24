@@ -1,6 +1,6 @@
 # Event Handling
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_events.h SDL_events.h]
+'''Include File(s):'''  [SDL_events.h](http://hg.libsdl.org/SDL/file/default/include/SDL_events.h)
 
 
 ## Introduction
@@ -10,11 +10,11 @@ Event handling allows your application to receive input from the user. Event han
 SDL_Init(SDL_INIT_VIDEO);
 </syntaxhighlight>
 
- (''see'' [[CategoryInit|Initialization & Shutdown]] and [[SDL_Init]]() ''for details'')
+ (''see'' [Initialization & Shutdown](CategoryInit) and [SDL_Init](SDL_Init)() ''for details'')
 
-Internally, SDL stores all the events waiting to be handled in an event queue.  Using functions like [[SDL_PollEvent]](), [[SDL_PeepEvents]]() and [[SDL_WaitEvent]]() you can observe and handle waiting input events.
+Internally, SDL stores all the events waiting to be handled in an event queue.  Using functions like [SDL_PollEvent](SDL_PollEvent)(), [SDL_PeepEvents](SDL_PeepEvents)() and [SDL_WaitEvent](SDL_WaitEvent)() you can observe and handle waiting input events.
 
-The event queue itself is composed of a series of [[SDL_Event]] structures, one for each waiting event. [[SDL_Event]] structures are read from the queue with the [[SDL_PollEvent]]() function and it is then up to the application to process the information stored with them.
+The event queue itself is composed of a series of [SDL_Event](SDL_Event) structures, one for each waiting event. [SDL_Event](SDL_Event) structures are read from the queue with the [SDL_PollEvent](SDL_PollEvent)() function and it is then up to the application to process the information stored with them.
 
 ## Enumerations
 <<FullSearchCached(category:CategoryEvents -category:CategoryStruct -category:CategoryAPI -title:SGEnumerations)>>

@@ -1,6 +1,6 @@
 
 # Pixel Formats and Conversion Routines
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_pixels.h SDL_pixels.h]
+'''Include File(s):''' [SDL_pixels.h](http://hg.libsdl.org/SDL/file/default/include/SDL_pixels.h)
 
 
 ## Introduction

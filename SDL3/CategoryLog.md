@@ -1,6 +1,6 @@
 # Log Handling
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_log.h SDL_log.h]
+'''Include File(s):'''  [SDL_log.h](http://hg.libsdl.org/SDL/file/default/include/SDL_log.h)
 
 
 ## Introduction

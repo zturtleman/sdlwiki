@@ -1,7 +1,7 @@
 
 # Force Feedback Support
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_haptic.h SDL_haptic.h]
+'''Include File(s):'''  [SDL_haptic.h](http://hg.libsdl.org/SDL/file/default/include/SDL_haptic.h)
 
 
 ## Introduction
@@ -12,13 +12,13 @@ The basic usage is as follows:
 
  1. Initialize the subsystem (SDL_INIT_HAPTIC)
  1. Open a haptic device
-  a. [[SDL_HapticOpen]]() to open from index
-  a. [[SDL_HapticOpenFromJoystick]]() to open from an existing joystick
- 1. Create an effect ([[SDL_HapticEffect]])
- 1. Upload the effect with [[SDL_HapticNewEffect]]()
- 1. Run the effect with [[SDL_HapticRunEffect]]()
- 1. (optional) Free the effect with [[SDL_HapticDestroyEffect]]()
- 1. Close the haptic device with [[SDL_HapticClose]]()
+  a. [SDL_HapticOpen](SDL_HapticOpen)() to open from index
+  a. [SDL_HapticOpenFromJoystick](SDL_HapticOpenFromJoystick)() to open from an existing joystick
+ 1. Create an effect ([SDL_HapticEffect](SDL_HapticEffect))
+ 1. Upload the effect with [SDL_HapticNewEffect](SDL_HapticNewEffect)()
+ 1. Run the effect with [SDL_HapticRunEffect](SDL_HapticRunEffect)()
+ 1. (optional) Free the effect with [SDL_HapticDestroyEffect](SDL_HapticDestroyEffect)()
+ 1. Close the haptic device with [SDL_HapticClose](SDL_HapticClose)()
 
 ## Code Examples
 Simple rumble example:
@@ -87,7 +87,7 @@ int test_haptic( SDL_Joystick * joystick ) {
  return 0; // Success
 }
 </syntaxhighlight>
-You can find more information in this blog by Edgar Simo Serra: [http://bobbens.dyndns.org/journal/2010/sdl_haptic/ SDL Haptic In Depth]([https://web.archive.org/web/20130728040700/http://bobbens.dyndns.org/journal/2010/sdl_haptic/ Archive])
+You can find more information in this blog by Edgar Simo Serra: [SDL Haptic In Depth](http://bobbens.dyndns.org/journal/2010/sdl_haptic/)([Archive](https://web.archive.org/web/20130728040700/http://bobbens.dyndns.org/journal/2010/sdl_haptic/))
 
 
 <!-- #Remove this line and the ## below to use this markup if it becomes relevant to this category -->

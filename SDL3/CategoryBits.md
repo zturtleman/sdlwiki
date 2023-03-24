@@ -1,7 +1,7 @@
 
 # Bit-level Operations
 
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_bits.h SDL_bits.h]
+'''Include File(s):''' [SDL_bits.h](http://hg.libsdl.org/SDL/file/default/include/SDL_bits.h)
 
 
 ## Introduction

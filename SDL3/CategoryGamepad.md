@@ -6,7 +6,7 @@
 
 # GameController and Joystick Mapping
 
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_gamecontroller.h SDL_gamecontroller.h]
+'''Include File(s):''' [SDL_gamecontroller.h](http://hg.libsdl.org/SDL/file/default/include/SDL_gamecontroller.h)
 
 
 

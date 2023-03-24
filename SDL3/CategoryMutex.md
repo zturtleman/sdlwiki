@@ -1,7 +1,7 @@
 
 # Thread Synchronization Primitives
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_mutex.h SDL_mutex.h], [http://hg.libsdl.org/SDL/file/default/include/SDL_thread.h SDL_thread.h]
+'''Include File(s):'''  [SDL_mutex.h](http://hg.libsdl.org/SDL/file/default/include/SDL_mutex.h), [SDL_thread.h](http://hg.libsdl.org/SDL/file/default/include/SDL_thread.h)
 
 
 ## Introduction

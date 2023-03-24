@@ -1,7 +1,7 @@
 
 # Surface Creation and Simple Drawing
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_surface.h SDL_surface.h]
+'''Include File(s):'''  [SDL_surface.h](http://hg.libsdl.org/SDL/file/default/include/SDL_surface.h)
 
 
 ## Introduction

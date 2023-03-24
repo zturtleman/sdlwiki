@@ -28,7 +28,7 @@ This function is available since SDL 3.0.0.
 
 ## Related Structures
 
-:[https://wiki.libsdl.org/SDL_FlashOperation SDL_FlashOperation]
+:[SDL_FlashOperation](SDL_FlashOperation)
 
 ----
 [CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)

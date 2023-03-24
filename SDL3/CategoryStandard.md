@@ -7,7 +7,7 @@
 
 # Standard Library Functionality
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_stdinc.h SDL_stdinc.h]
+'''Include File(s):'''  [SDL_stdinc.h](http://hg.libsdl.org/SDL/file/default/include/SDL_stdinc.h)
 
 
 ## Introduction

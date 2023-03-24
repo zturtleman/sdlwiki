@@ -1,7 +1,7 @@
 
 # Clipboard Handling
 
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_clipboard.h SDL_clipboard.h]
+'''Include File(s):''' [SDL_clipboard.h](http://hg.libsdl.org/SDL/file/default/include/SDL_clipboard.h)
 
 
 ## Introduction

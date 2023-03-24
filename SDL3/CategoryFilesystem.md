@@ -1,7 +1,7 @@
 
 # Filesystem Paths
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_filesystem.h SDL_filesystem.h]
+'''Include File(s):'''  [SDL_filesystem.h](http://hg.libsdl.org/SDL/file/default/include/SDL_filesystem.h)
 
 
 ## Introduction

@@ -1,7 +1,7 @@
 
 # Joystick Support
 
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_joystick.h SDL_joystick.h]
+'''Include File(s):''' [SDL_joystick.h](http://hg.libsdl.org/SDL/file/default/include/SDL_joystick.h)
 
 
 ## Introduction

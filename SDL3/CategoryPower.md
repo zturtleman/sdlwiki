@@ -1,7 +1,7 @@
 
 # Power Management Status
 
-'''Include File(s):'''  [http://hg.libsdl.org/SDL/file/default/include/SDL_power.h SDL_power.h]
+'''Include File(s):'''  [SDL_power.h](http://hg.libsdl.org/SDL/file/default/include/SDL_power.h)
 
 
 ## Introduction

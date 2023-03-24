@@ -1,7 +1,7 @@
 
 # Display and Window Management
 
-'''Include File(s):''' [http://hg.libsdl.org/SDL/file/default/include/SDL_video.h SDL_video.h]
+'''Include File(s):''' [SDL_video.h](http://hg.libsdl.org/SDL/file/default/include/SDL_video.h)
 
 
 ## Introduction
