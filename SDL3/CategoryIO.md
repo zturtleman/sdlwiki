@@ -43,5 +43,6 @@ This category contains functions for handling the general interface for SDL to r
 - [SDL_WriteLE64](SDL_WriteLE64)
 - [SDL_WriteU8](SDL_WriteU8)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

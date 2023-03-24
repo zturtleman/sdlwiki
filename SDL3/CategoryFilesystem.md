@@ -26,5 +26,6 @@ This category contains functions for getting commonly used paths such as the app
 - [SDL_GetBasePath](SDL_GetBasePath)
 - [SDL_GetPrefPath](SDL_GetPrefPath)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

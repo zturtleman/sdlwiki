@@ -28,5 +28,6 @@ This category contains functions for advanced, platform-specific functionality.
 - [SDL_iPhoneSetEventPump](SDL_iPhoneSetEventPump)
 - [SDL_SetWindowsMessageHook](SDL_SetWindowsMessageHook)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

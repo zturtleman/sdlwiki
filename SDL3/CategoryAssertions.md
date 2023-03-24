@@ -71,5 +71,6 @@ The following table describes each SDL_ASSERT_LEVEL setting and the correspondin
 - [SDL_SetAssertionHandler](SDL_SetAssertionHandler)
 - [SDL_TriggerBreakpoint](SDL_TriggerBreakpoint)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

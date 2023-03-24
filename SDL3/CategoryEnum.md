@@ -47,5 +47,6 @@ This category contains all the (public) enumerations for SDL.
 - [SDLEnumTemplate](SDLEnumTemplate)
 - [SGEnumerations](SGEnumerations)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

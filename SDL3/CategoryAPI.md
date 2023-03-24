@@ -769,5 +769,6 @@ For '''[Ctrl]+[F]''' functionality, [[/wiki/index|index]] may be a workaround.<b
 - [SDLFunctionTemplate](SDLFunctionTemplate)
 - [SGFunctions](SGFunctions)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

@@ -67,5 +67,6 @@ The atomic locks are efficient spinlocks using CPU instructions, but are vulnera
 - [SDL_AtomicUnlock](SDL_AtomicUnlock)
 - [SDL_CompilerBarrier](SDL_CompilerBarrier)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

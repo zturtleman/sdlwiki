@@ -57,5 +57,6 @@ This category contains all the (public) hint defines for SDL.
 - [SDL_HINT_XINPUT_ENABLED](SDL_HINT_XINPUT_ENABLED)
 - [SDL_HINT_XINPUT_USE_OLD_JOYSTICK_MAPPING](SDL_HINT_XINPUT_USE_OLD_JOYSTICK_MAPPING)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

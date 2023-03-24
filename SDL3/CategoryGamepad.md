@@ -38,5 +38,6 @@ If you are running your game from Steam, the game controller mapping is automati
 - [SDL_GamepadConnected](SDL_GamepadConnected)
 - [SDL_GameControllerNameForIndex](SDL_GameControllerNameForIndex)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory), [CategoryDraft](CategoryDraft)

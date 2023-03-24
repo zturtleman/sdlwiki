@@ -41,5 +41,6 @@ This category contains functions for handling surface creation and blitting as w
 - [SDL_Surface](SDL_Surface)
 - [SDL_UnlockSurface](SDL_UnlockSurface)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

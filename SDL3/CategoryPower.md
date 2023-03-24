@@ -22,5 +22,6 @@ This category contains functions for handling SDL power management routines.
 - [SDL_GetPowerInfo](SDL_GetPowerInfo)
 - [SDL_PowerState](SDL_PowerState)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

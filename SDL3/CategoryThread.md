@@ -29,5 +29,6 @@ This category contains functions for system independent thread management routin
 - [SDL_TLSSet](SDL_TLSSet)
 - [SDL_WaitThread](SDL_WaitThread)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

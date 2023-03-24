@@ -47,5 +47,6 @@ Please note that this ONLY discusses "mice" with the notion of the desktop GUI. 
 - [SDL_WarpMouseGlobal](SDL_WarpMouseGlobal)
 - [SDL_WarpMouseInWindow](SDL_WarpMouseInWindow)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

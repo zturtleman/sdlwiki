@@ -140,5 +140,6 @@ You can find more information in this blog by Edgar Simo Serra: [http://bobbens.
 - [SDL_MouseIsHaptic](SDL_MouseIsHaptic)
 - [SDL_NumHaptics](SDL_NumHaptics)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

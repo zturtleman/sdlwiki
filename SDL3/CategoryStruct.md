@@ -72,5 +72,6 @@ This category contains all the (public) structures for SDL.
 - [SDLStructTemplate](SDLStructTemplate)
 - [SGStructures](SGStructures)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)

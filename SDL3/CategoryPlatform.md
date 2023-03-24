@@ -21,5 +21,6 @@ This category contains functions for handling information about the current plat
 <!-- BEGIN CATEGORY LIST -->
 - [SDL_GetPlatform](SDL_GetPlatform)
 <!-- END CATEGORY LIST -->
+
 ----
 [CategoryCategory](CategoryCategory)
