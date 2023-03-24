@@ -41,5 +41,5 @@ This function is available since SDL 2.0.0.
 * [SDL_DestroyRenderer](SDL_DestroyRenderer)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

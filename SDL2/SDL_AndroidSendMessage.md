@@ -26,5 +26,5 @@ Override "boolean onUnhandledMessage(Message msg)" to handle the message.
 This function is available since SDL 2.0.22.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem), [CategoryAndroid](CategoryAndroid)
 

@@ -46,5 +46,5 @@ This function is available since SDL 2.0.0.
 * [SDL_SaveBMP_RW](SDL_SaveBMP_RW)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 

@@ -37,5 +37,5 @@ This function is available since SDL 2.0.0.
 * [SDL_SetEventFilter](SDL_SetEventFilter)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryEvents](CategoryEvents)
 

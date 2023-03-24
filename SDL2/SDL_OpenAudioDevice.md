@@ -139,5 +139,5 @@ This function is available since SDL 2.0.0.
 * [SDL_UnlockAudioDevice](SDL_UnlockAudioDevice)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
 

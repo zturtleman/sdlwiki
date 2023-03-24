@@ -15,5 +15,5 @@ int SDL_GetNumAllocations(void);
 This function is available since SDL 2.0.7.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryStandard](CategoryStandard)
 

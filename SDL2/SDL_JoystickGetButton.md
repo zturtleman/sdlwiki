@@ -31,5 +31,5 @@ This function is available since SDL 2.0.0.
 * [SDL_JoystickNumButtons](SDL_JoystickNumButtons)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryJoystick](CategoryJoystick)
 

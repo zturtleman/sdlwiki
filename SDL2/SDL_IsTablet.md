@@ -24,5 +24,5 @@ If SDL can't determine this, it will return [SDL_FALSE](SDL_FALSE).
 This function is available since SDL 2.0.9.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem)
 

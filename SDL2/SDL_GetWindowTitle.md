@@ -29,5 +29,5 @@ This function is available since SDL 2.0.0.
 * [SDL_SetWindowTitle](SDL_SetWindowTitle)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

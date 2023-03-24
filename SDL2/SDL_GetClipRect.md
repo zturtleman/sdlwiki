@@ -33,5 +33,5 @@ This function is available since SDL 2.0.0.
 * [SDL_SetClipRect](SDL_SetClipRect)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 

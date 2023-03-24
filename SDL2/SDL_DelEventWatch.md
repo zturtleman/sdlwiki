@@ -33,5 +33,5 @@ This function is available since SDL 2.0.0.
 * [SDL_AddEventWatch](SDL_AddEventWatch)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryEvents](CategoryEvents)
 

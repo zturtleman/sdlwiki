@@ -61,5 +61,5 @@ devoid of allocations, etc.
 This function is available since SDL 2.0.4.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

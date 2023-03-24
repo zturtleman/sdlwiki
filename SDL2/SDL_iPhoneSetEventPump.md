@@ -32,5 +32,5 @@ This function is available since SDL 2.0.0.
 * [SDL_iPhoneSetAnimationCallback](SDL_iPhoneSetAnimationCallback)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem)
 

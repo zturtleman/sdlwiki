@@ -43,5 +43,5 @@ This function is available since SDL 2.0.3.
 * [SDL_WinRTGetFSPathUTF8](SDL_WinRTGetFSPathUTF8)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem)
 

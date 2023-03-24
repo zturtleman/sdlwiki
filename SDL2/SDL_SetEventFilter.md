@@ -60,5 +60,5 @@ This function is available since SDL 2.0.0.
 * [SDL_PushEvent](SDL_PushEvent)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryEvents](CategoryEvents)
 

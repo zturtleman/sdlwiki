@@ -45,5 +45,5 @@ This function is available since SDL 2.0.0.
 * [SDL_FillRect](SDL_FillRect)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 

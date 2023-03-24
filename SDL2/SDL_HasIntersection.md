@@ -36,5 +36,5 @@ This function is available since SDL 2.0.0.
 * [SDL_IntersectRect](SDL_IntersectRect)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRect](CategoryRect)
 

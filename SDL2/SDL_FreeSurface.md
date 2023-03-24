@@ -32,5 +32,5 @@ This function is available since SDL 2.0.0.
 * [SDL_LoadBMP_RW](SDL_LoadBMP_RW)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 

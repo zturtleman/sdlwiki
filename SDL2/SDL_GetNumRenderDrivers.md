@@ -33,5 +33,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GetRenderDriverInfo](SDL_GetRenderDriverInfo)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

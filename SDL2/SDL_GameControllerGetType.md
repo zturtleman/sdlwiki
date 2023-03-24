@@ -31,5 +31,5 @@ takes a controller identifier instead of the (unstable) device index.
 This function is available since SDL 2.0.12.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
 

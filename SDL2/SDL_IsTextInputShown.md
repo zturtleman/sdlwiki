@@ -15,5 +15,5 @@ SDL_bool SDL_IsTextInputShown(void);
 This function is available since SDL 2.0.22.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryKeyboard](CategoryKeyboard)
 

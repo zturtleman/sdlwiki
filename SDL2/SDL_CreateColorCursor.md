@@ -35,5 +35,5 @@ This function is available since SDL 2.0.0.
 * [SDL_FreeCursor](SDL_FreeCursor)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMouse](CategoryMouse)
 

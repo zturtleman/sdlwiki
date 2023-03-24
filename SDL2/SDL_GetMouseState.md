@@ -40,5 +40,5 @@ This function is available since SDL 2.0.0.
 * [SDL_PumpEvents](SDL_PumpEvents)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMouse](CategoryMouse)
 

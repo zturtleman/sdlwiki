@@ -20,5 +20,5 @@ This function is available since SDL 2.0.0.
 * [SDL_IsScreenSaverEnabled](SDL_IsScreenSaverEnabled)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

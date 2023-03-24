@@ -37,5 +37,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GameControllerOpen](SDL_GameControllerOpen)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
 

@@ -29,5 +29,5 @@ This function is available since SDL 2.0.0.
 * [SDL_CreateCond](SDL_CreateCond)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMutex](CategoryMutex)
 

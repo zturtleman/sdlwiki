@@ -42,5 +42,5 @@ This function is available since SDL 2.0.0.
 * [SDL_FreeRW](SDL_FreeRW)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 

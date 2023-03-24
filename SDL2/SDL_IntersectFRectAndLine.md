@@ -41,5 +41,5 @@ coordinates saved in `X1`, `Y1`, `X2`, and/or `Y2` as necessary.
 This function is available since SDL 2.0.22.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRect](CategoryRect)
 

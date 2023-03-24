@@ -36,5 +36,5 @@ This function is available since SDL 2.0.0.
 * [SDL_LockTexture](SDL_LockTexture)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

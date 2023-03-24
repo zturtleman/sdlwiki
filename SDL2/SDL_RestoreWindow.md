@@ -26,5 +26,5 @@ This function is available since SDL 2.0.0.
 * [SDL_MinimizeWindow](SDL_MinimizeWindow)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

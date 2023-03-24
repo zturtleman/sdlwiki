@@ -44,5 +44,5 @@ This function is available since SDL 2.0.2.
 * [SDL_SetAssertionHandler](SDL_SetAssertionHandler)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAssertions](CategoryAssertions)
 

@@ -47,5 +47,5 @@ This function is available since SDL 2.0.0.
 * [SDL_UpdateTexture](SDL_UpdateTexture)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

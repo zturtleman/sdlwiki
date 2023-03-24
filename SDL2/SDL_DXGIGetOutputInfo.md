@@ -37,5 +37,5 @@ returns an [SDL_bool](SDL_bool).
 This function is available since SDL 2.0.2.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem)
 

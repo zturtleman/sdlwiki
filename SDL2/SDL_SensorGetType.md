@@ -26,5 +26,5 @@ Returns the [SDL_SensorType](SDL_SensorType) type, or
 This function is available since SDL 2.0.9.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySensor](CategorySensor)
 

@@ -39,5 +39,5 @@ This function is available since SDL 2.0.0.
 * [SDL_WarpMouseGlobal](SDL_WarpMouseGlobal)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryMouse](CategoryMouse)
 

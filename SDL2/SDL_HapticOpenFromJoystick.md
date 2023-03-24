@@ -43,5 +43,5 @@ This function is available since SDL 2.0.0.
 * [SDL_JoystickIsHaptic](SDL_JoystickIsHaptic)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryForceFeedback](CategoryForceFeedback)
 

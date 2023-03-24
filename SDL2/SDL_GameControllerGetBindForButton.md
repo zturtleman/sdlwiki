@@ -35,5 +35,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GameControllerGetBindForAxis](SDL_GameControllerGetBindForAxis)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
 

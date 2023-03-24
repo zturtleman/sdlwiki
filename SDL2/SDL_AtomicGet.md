@@ -34,5 +34,5 @@ This function is available since SDL 2.0.2.
 * [SDL_AtomicSet](SDL_AtomicSet)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAtomic](CategoryAtomic)
 

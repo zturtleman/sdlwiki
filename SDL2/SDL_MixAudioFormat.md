@@ -47,5 +47,5 @@ you're mixing a single audio stream with a volume adjustment.
 This function is available since SDL 2.0.0.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
 

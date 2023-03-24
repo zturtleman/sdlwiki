@@ -37,5 +37,5 @@ This function is available since SDL 2.0.0.
 * [SDL_HasSSE42](SDL_HasSSE42)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryCPU](CategoryCPU)
 

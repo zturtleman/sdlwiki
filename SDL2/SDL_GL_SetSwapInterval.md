@@ -47,5 +47,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GL_GetSwapInterval](SDL_GL_GetSwapInterval)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

@@ -32,5 +32,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GetThreadID](SDL_GetThreadID)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryThread](CategoryThread)
 

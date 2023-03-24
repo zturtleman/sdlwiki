@@ -39,5 +39,5 @@ This function is available since SDL 2.0.0.
 * [SDL_UnlockSurface](SDL_UnlockSurface)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 

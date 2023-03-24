@@ -92,5 +92,5 @@ SDL_RemoveTimer(timerID);
 ```
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryTimer](CategoryTimer)
 

@@ -43,5 +43,5 @@ This function is available since SDL 2.0.0.
 * [SDL_SetTextureColorMod](SDL_SetTextureColorMod)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

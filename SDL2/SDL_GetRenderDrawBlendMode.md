@@ -32,5 +32,5 @@ This function is available since SDL 2.0.0.
 * [SDL_SetRenderDrawBlendMode](SDL_SetRenderDrawBlendMode)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

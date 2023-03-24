@@ -69,5 +69,5 @@ SDL_RenderPresent(renderer);
 ```
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

@@ -42,5 +42,5 @@ This function is available since SDL 2.0.0.
 * [SDL_PixelFormatEnumToMasks](SDL_PixelFormatEnumToMasks)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryPixels](CategoryPixels)
 

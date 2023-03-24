@@ -34,5 +34,5 @@ This function is available since SDL 2.0.0.
 * [SDL_ReadLE32](SDL_ReadLE32)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 

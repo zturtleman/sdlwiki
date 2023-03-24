@@ -44,5 +44,5 @@ This function is available since SDL 2.0.0.
 * [SDL_RenderFillRects](SDL_RenderFillRects)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryRender](CategoryRender)
 

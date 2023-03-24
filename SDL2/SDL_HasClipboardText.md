@@ -25,5 +25,5 @@ This function is available since SDL 2.0.0.
 * [SDL_SetClipboardText](SDL_SetClipboardText)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryClipboard](CategoryClipboard)
 

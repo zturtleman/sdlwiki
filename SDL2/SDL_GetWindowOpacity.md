@@ -40,5 +40,5 @@ This function is available since SDL 2.0.5.
 * [SDL_SetWindowOpacity](SDL_SetWindowOpacity)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

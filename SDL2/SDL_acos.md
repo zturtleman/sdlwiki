@@ -33,5 +33,5 @@ Range: `0 <= y <= Pi`
 This function is available since SDL 2.0.2.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryStandard](CategoryStandard)
 

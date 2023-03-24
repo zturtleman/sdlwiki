@@ -37,5 +37,5 @@ This function is available since SDL 2.0.0.
 * [SDL_AudioQuit](SDL_AudioQuit)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryAudio](CategoryAudio)
 

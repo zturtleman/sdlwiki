@@ -56,5 +56,5 @@ This function is available since SDL 2.0.2.
 * [SDL_WaitThread](SDL_WaitThread)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryThread](CategoryThread)
 

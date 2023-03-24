@@ -31,5 +31,5 @@ This function is available since SDL 2.0.0.
 * [SDL_StopTextInput](SDL_StopTextInput)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryKeyboard](CategoryKeyboard)
 

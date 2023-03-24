@@ -35,5 +35,5 @@ This function is available since SDL 2.0.0.
 * [SDL_JoystickGetGUID](SDL_JoystickGetGUID)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
 

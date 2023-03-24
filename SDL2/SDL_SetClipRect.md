@@ -41,5 +41,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GetClipRect](SDL_GetClipRect)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 

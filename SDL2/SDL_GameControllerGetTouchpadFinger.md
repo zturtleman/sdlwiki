@@ -15,5 +15,5 @@ int SDL_GameControllerGetTouchpadFinger(SDL_GameController *gamecontroller, int 
 This function is available since SDL 2.0.14.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryGameController](CategoryGameController)
 

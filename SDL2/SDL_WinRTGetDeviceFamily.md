@@ -20,5 +20,5 @@ enum.
 This function is available since SDL 2.0.8.
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySystem](CategorySystem)
 

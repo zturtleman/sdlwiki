@@ -42,5 +42,5 @@ This function is available since SDL 2.0.0.
 * [SDL_AllocRW](SDL_AllocRW)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 

@@ -41,5 +41,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GL_UnloadLibrary](SDL_GL_UnloadLibrary)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

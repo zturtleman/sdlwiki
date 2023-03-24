@@ -32,5 +32,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GetWindowPosition](SDL_GetWindowPosition)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryVideo](CategoryVideo)
 

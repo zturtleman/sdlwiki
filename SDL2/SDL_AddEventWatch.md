@@ -61,5 +61,5 @@ SDL_AddEventWatch(MyEventFunction, NULL);
 ```
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryEvents](CategoryEvents)
 

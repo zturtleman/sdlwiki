@@ -45,5 +45,5 @@ This function is available since SDL 2.0.10.
 * [SDL_RWwrite](SDL_RWwrite)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryIO](CategoryIO)
 

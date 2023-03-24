@@ -36,5 +36,5 @@ This function is available since SDL 2.0.0.
 * [SDL_HapticQuery](SDL_HapticQuery)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryForceFeedback](CategoryForceFeedback)
 

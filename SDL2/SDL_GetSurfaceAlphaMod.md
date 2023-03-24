@@ -33,5 +33,5 @@ This function is available since SDL 2.0.0.
 * [SDL_SetSurfaceAlphaMod](SDL_SetSurfaceAlphaMod)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategorySurface](CategorySurface)
 

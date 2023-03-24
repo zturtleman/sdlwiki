@@ -36,5 +36,5 @@ This function is available since SDL 2.0.0.
 * [SDL_GetModState](SDL_GetModState)
 
 ----
-[CategoryAPI](CategoryAPI)
+[CategoryAPI](CategoryAPI), [CategoryKeyboard](CategoryKeyboard)
 
