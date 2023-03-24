@@ -38,5 +38,6 @@ If you are running your game from Steam, the game controller mapping is automati
 * [[SDL_GameControllerAxis]]
 * [[SDL_GameControllerButton]]
 <!-- END CATEGORY LIST -->
+
 ----
 [[CategoryCategory]], [[CategoryDraft]]

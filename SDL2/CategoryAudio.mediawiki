@@ -25,5 +25,6 @@ This category contains functions for handling audio devices and audio input/outp
 * [[SDL_AudioStream]]
 * [[SDL_LoadWAV]]
 <!-- END CATEGORY LIST -->
+
 ----
 [[CategoryCategory]]

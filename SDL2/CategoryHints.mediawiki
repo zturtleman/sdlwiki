@@ -80,5 +80,6 @@ In general these hints are just that - they may or may not be supported or appli
 * [[SDL_HINT_XINPUT_USE_OLD_JOYSTICK_MAPPING]]
 * [[SDL_HintPriority]]
 <!-- END CATEGORY LIST -->
+
 ----
 [[CategoryCategory]]

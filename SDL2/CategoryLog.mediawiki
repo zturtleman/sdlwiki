@@ -44,5 +44,6 @@ Messages longer than the maximum size (4096 bytes) will be truncated.
 * [[SDL_LOG_CATEGORY]]
 * [[SDL_LogPriority]]
 <!-- END CATEGORY LIST -->
+
 ----
 [[CategoryCategory]]

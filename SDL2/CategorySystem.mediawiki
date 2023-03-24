@@ -29,5 +29,6 @@ This category contains functions for advanced, platform-specific functionality.
 * [[SDL_RenderGetD3D9Device]]
 * [[SDL_SetWindowsMessageHook]]
 <!-- END CATEGORY LIST -->
+
 ----
 [[CategoryCategory]]

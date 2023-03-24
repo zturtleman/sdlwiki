@@ -33,5 +33,6 @@ The main difference between these two values comes into play in situations where
 * [[SDL_Keysym]]
 * [[SDL_Scancode]]
 <!-- END CATEGORY LIST -->
+
 ----
 [[CategoryCategory]]

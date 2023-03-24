@@ -41,5 +41,6 @@ The other API is in [https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_mou
 * [[SDL_IsDeviceDisconnected]]
 * [[SDL_RedetectInputDevices]]
 <!-- END CATEGORY LIST -->
+
 ----
 [[CategoryCategory]], [[CategoryDraft]]

@@ -14,5 +14,6 @@ A hint that specifies whether the OpenGL render driver uses shaders.
 
 == Default ==
 By default shaders are used if OpenGL supports them.
+
 ----
 [[CategoryDefine]], [[CategoryHints]]

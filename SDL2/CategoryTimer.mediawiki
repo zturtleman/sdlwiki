@@ -21,5 +21,6 @@ This category contains functions for handling the SDL time management routines.
 <!-- BEGIN CATEGORY LIST -->
 * [[SDL_TICKS_PASSED]]
 <!-- END CATEGORY LIST -->
+
 ----
 [[CategoryCategory]]
