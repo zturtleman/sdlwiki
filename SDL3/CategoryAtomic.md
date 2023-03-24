@@ -31,7 +31,7 @@ These operations may or may not actually be implemented using processor specific
 All of the atomic operations that modify memory are full memory barriers.
 
 
-=== Atomic Locks ===
+### Atomic Locks
 
 <!-- #The following is included on SDL_AtomicLock and SDL_AtomicTryLock.  Any changes between these comments will be reflected on those pages.  Please use caution when editing.  Start Include here. -->
 

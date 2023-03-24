@@ -5,7 +5,7 @@
 ## Introduction
 The functions in this category are used to set up SDL for use and generally have global effects in your program.
 
-=== Introduction to Initialization ===
+### Introduction to Initialization
 To begin using SDL in your program [SDL_Init](SDL_Init)() must be called before most other SDL functions.  The role of [SDL_Init](SDL_Init)() is to properly initialize the SDL library and start each of the various subsystems requested as part of the call.
 
 : {i} The [File I/O](CategoryIO) and [Threading](CategoryThread) subsystems are initialized by default.  To initialize other subsystems you must specifically call them.  Multiple subsystems may be OR'd together.
@@ -17,7 +17,7 @@ To begin using SDL in your program [SDL_Init](SDL_Init)() must be called before 
 
 It should be noted that on some operating systems, [SDL_Init](SDL_Init)() will fail if SDL_main() has not been defined as the entry point for the program.  Calling [SDL_SetMainReady](SDL_SetMainReady)() prior to [SDL_Init](SDL_Init)() will circumvent this failure condition, however, users should be careful when calling [SDL_SetMainReady](SDL_SetMainReady)() as improper initialization may cause crashes and hard to diagnose problems.
 
-=== Introduction to Shut Down ===
+### Introduction to Shut Down
 [SDL_Quit](SDL_Quit)() should be called before an SDL application exits to safely shut down all subsystems, including the default ones.
 
 * It is not necessary to specify individual subsystems when using [SDL_Quit](SDL_Quit)() as it will automatically shut down all active subsystems.
